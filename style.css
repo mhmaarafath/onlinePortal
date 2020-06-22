@@ -1,0 +1,14 @@
+.header, .footer{
+    background: #ff0000;
+    padding: 20px;
+    text-align: center;
+    font-size: 2em;
+    color: #fff;
+    font-weight: 800;
+}
+
+.footer{
+    font-size: 1.6em;
+    color: #fff;
+    font-weight: 600;
+}
